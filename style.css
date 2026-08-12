@@ -1,0 +1,59 @@
+h1 {
+  color: rgb(81, 51, 101);
+  padding: 60;
+  margin :0;
+ background-color: rgb;
+}
+h4 {
+  color: rgb(145, 114, 168);
+  padding: 60;
+  margin :60px,60px;;
+ background-color: rgb(249, 241, 241);
+}
+h5 {
+  color: rgb(145, 114, 168);
+  padding: 60;
+  margin :60px,60px;;
+ background-color: rgb(249, 241, 241);
+}
+form {
+  color: rgb(52, 28, 71);
+  padding: 60;
+  margin :60px,60px;;
+ background-color: rgb(249, 241, 241);
+}
+input {
+  color: rgb(79, 20, 124);
+  padding: 0px;
+  margin :10px;
+ background-color: rgb(249, 241, 241);
+}
+label{
+  color: rgb(82, 87, 228);
+  padding: 60;
+  margin :60px,60px;;
+ background-color: rgb(249, 241, 241);
+}
+ button { color: rgb(190, 122, 190);
+  padding: 10px;;
+  margin :0;;
+ background-color: rgb(249, 241, 241);
+}
+ ::placeholder{
+    font-style:italic;
+  color: rgb(160, 125, 187);
+ }
+ .navbar 
+ {
+ color: rgb(9, 12, 90);
+  padding:0;
+  margin :0;
+ background-color: rgb(249, 241, 241);
+ text-decoration: none;
+ }
+ a
+ {
+ color: rgb(16, 19, 99);
+ text-decoration: none;
+  margin-right:20px;;
+ }
